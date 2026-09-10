@@ -105,10 +105,10 @@ The compiled, minified production assets will be generated in the `dist/` direct
 - **Name:** Mohammad Aasiq
 - **Role:** Security Software Developer | Vibe Coder
 - **Email:** [asiqmohd1970@gmail.com](mailto:asiqmohd1970@gmail.com)
-- **Phone:** [+91 7540050868](tel:+917540050868)
+- **Phone:** [+91 6374004563](telno:6374004563)
 - **GitHub:** [@asiqmohd1970-crypto](https://github.com/asiqmohd1970-crypto)
 - **LinkedIn:** [Mohammad Aasiq](https://www.linkedin.com/in/mohammad-aasiq-s-93a0272b2/)
-- **Location:** Tiruchirappalli, Tamil Nadu, India
+- **Location:** Madurai, Tamil Nadu, India
 
 ---
 
